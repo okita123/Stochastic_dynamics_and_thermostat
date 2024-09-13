@@ -1,1 +1,3 @@
 # Stochastic_dynamics_and_thermostat
+
+確率論的なダイナミクスと熱浴について勉強したまとめ．
